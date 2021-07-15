@@ -1,0 +1,13 @@
+Needed data
+
+The neighbourhoods alongside their respective postal codes and boroughs were scraped from Wikipedia. Geographical coordinates for each neighbourhood were extracted from here (). As for Toronto’s census data — median household income, total population, and population of Southeast Asians across each neighbourhood — Toronto’s Open Data Portal
+
+1) Neighborhoods with postal codes and borough will be scraped from Wikipedia.
+(link: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M) 
+
+2) Geographical coordinates for each neighborhood will be obtained from the following link:
+https://cocl.us/Geospatial_data
+
+3) Census data about Toronto's population, chinese population and household income will be obtained from:
+Toronto’s Open Data Portal 
+(link: http://map.toronto.ca/wellbeing)
