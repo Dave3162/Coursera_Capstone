@@ -1,0 +1,16 @@
+Needed data
+
+1) Neighborhoods with postal codes and borough will be scraped from Wikipedia.
+(link: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M) 
+
+2) Geographical coordinates for each neighborhood will be obtained from the following link:
+(https://cocl.us/Geospatial_data)
+
+3) Census data about Toronto's population, chinese population and household income will be obtained from:
+Toronto’s Open Data Portal 
+(link: http://map.toronto.ca/wellbeing)
+
+Using data I will identify:
+    1) Geographical coordinates of neighborhoods in Toronto
+    2) All the restaurants in those neighborhoods using Foursquare API and specifically, Asian restaurants
+    3) Chinese people living in the neighborhoods
