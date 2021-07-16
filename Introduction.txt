@@ -1,7 +1,6 @@
-Intoduction
+Intoduction/Business problem
 
-For this final assignment, I have chosen to find a neighborhood in Toronto to build Chinese restaurant. I think, using supply and demand laws, building such restaurant should be in the neighborhood where percentage of Chinese people living in that area must be high and where there should be not many chinese restaurants, so that we can avoid competition. 
+For this final assignment, I have chosen to find a neighborhood in Toronto to build Chinese restaurant. The success of any restaurant depends on several factors such as menu, quality of food, prices and so on. However, one of the main factors for its ultimate success is location. Therefore, using supply and demand laws, building Chinese restaurant should be in the neighborhood where percentage of Chinese people living in that area must be high and where there should be not many chinese restaurants, so that we can avoid competition. 
 
-Business problem
+My job here is to find optimal location for the restaurant using data science so that restaurant could be profitable and prosper in the area.  
 
-My job here is to find optimal location for the restaurant so that restaurant could be profitable and prosper in the area.
